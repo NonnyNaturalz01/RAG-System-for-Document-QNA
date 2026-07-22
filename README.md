@@ -1,7 +1,7 @@
 # 📚 Retrieval-Augmented Generation (RAG) System for Document Q&A
 <br>
 <br>
-This project implements a **RAG pipeline** for answering questions from documents using modern NLP techniques.  
+This project implements a <b>RAG pipeline</b> for answering questions from documents using modern NLP techniques.  
 It combines <b>HuggingFace embeddings</b>, <b>ChromaDB vector storage</b>, and a <b>CharacterTextSplitter chunking strategy</b> to deliver accurate, context-aware responses.
 <br>
 ---
